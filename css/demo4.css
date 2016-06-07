@@ -51,9 +51,7 @@ h2{
 	align-items: center;
 }
 
-.firstpage {
-    background-image: url(/images/neverland-landscape1.jpeg) 150px;
-}
+
 
 .bb-custom-firstpage h1 {
 	font-size: 2.625em;
@@ -336,7 +334,8 @@ h2{
 	top: 0;
 	left: 0;
 	display: none;
-	background-image: url(/images/neverland-landscape1.jpeg);
+	background-image: url(https://vazquezdoodles.files.wordpress.com/2013/06/neverland-landscape1.jpeg);
+    background-size: 100%;
 }
 
 #4left {
