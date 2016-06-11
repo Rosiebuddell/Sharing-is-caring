@@ -13,6 +13,13 @@ h2{
 	font-style: normal;
 }
 
+h1.firstheader{
+    font-family: 'Tangerine', cursive;
+    text-align:center; 
+    margin-top:250px; 
+    font-size: 100pt;
+}
+
 .bb-custom-wrapper {
 	width: 100%;
 	height: 100%;
@@ -450,7 +457,7 @@ a img {
 	padding: 0;
 	margin: 0;
 	text-align: right;
-	line-height: 1.5;
+	line-height: 2;
 }
 
 /* To Navigation Style */
